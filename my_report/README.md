@@ -29,6 +29,10 @@
 
 4)QR CODE-CAMERA READ
 
+Διάβασα το έτοιμο παράδειγμα QRCodeExample που βρίσκεται μέσα στη βιβλιοθήκη και το προσάρμοσα κατάλληλα ώστε όταν η κάμερα να διαβάζει το προσωπικό σας QRCode να ανοίγει το URL που είναι αποθηκευμένο σε αυτό σε μια νέα ιστοσελίδα.
+![Screenshot (6)](https://user-images.githubusercontent.com/101417276/199260244-7d278df9-b636-4ae2-b89d-2d24ba9fc11f.png)
+
+
 # 2nd Deliverable
 
 
