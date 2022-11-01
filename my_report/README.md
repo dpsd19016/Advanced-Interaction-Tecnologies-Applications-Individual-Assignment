@@ -21,6 +21,9 @@
 
 # 2nd Deliverable
 
+Στο 2ο ζητούμενο κατέβασα ενα 10' βίντεο από την σελίδα videvo.net και το αποθήκευασα στο φάκελο data που δημιούργησα. Το βιντεο παίζει σε επανάληψη όταν τρέχω τον κώδικα.
+![Screenshot (4)](https://user-images.githubusercontent.com/101417276/199248408-1c82574b-7774-4c45-9254-a390da006f64.png)
+
 
 # 3rd Deliverable 
 
