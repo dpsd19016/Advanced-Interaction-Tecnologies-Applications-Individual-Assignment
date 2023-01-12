@@ -6,9 +6,9 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/dpsd19016/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
-
+Τα παραδοτέα όλα θα τρέξουν με την εφαρμογή του processing καθώς και με βιβλιοθήκες και παραδείγματα. 
 # Summary
-
+Το processing είναι μια εφαρμογή λογισμικού για να μάθουμε κώδικα. Μέσω των ασκήσεων και των παραδειγμάτων στα μαθήματα γενικά έμαθα να χρησιμοποιώ αυτή την εφαρμογή.
 
 # 1st Deliverable
 1)VIDEO CAPTURE
